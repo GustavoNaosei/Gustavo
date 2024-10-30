@@ -1,0 +1,17 @@
+nav a {
+    color: black;
+    text-decoration: none;
+    margin: 50px 20px 50px 20px;
+    text-transform: capitalize;
+}
+
+aside > a {
+    color: black;
+    text-decoration: none;
+    margin: 50px 20px 50px 20px;
+    text-transform: capitalize;
+}
+
+.logo:hover{
+    content: url("does-anyone-have-the-image-gif-of-limbo-drawn-over-the-v0-u0kj6o3pv6za1.gif");
+}
